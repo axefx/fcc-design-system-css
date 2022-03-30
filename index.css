@@ -36,3 +36,11 @@ picture {
   max-width: 100%;
   display: block;
 }
+
+/* make form elements easier to work with */
+input,
+button,
+textarea,
+select {
+  font: inherit;
+}
